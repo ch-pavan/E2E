@@ -9,4 +9,4 @@ Deep Learning Model on Electron-photon classification, Quark-Gluon classificatio
 
 Training/Validation Loss and Accuracy
 Task 1 
-![Alt text](/images/task1.png?raw=true "Optional Title")
+![Alt text](images/task1.png?raw=true "Optional Title")
