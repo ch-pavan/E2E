@@ -9,4 +9,12 @@ Deep Learning Model on Electron-photon classification, Quark-Gluon classificatio
 
 Training/Validation Loss and Accuracy
 Task 1 
+
 ![ScreenShot](https://raw.github.com/hell-lord/E2E/main/images/task1.png)
+
+Task 2
+
+![ScreenShot](https://raw.github.com/hell-lord/E2E/main/images/task2.png)
+
+Swin Transformer
+![ScreenShot](https://raw.github.com/hell-lord/E2E/main/images/task1_vit.png)
