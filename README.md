@@ -17,4 +17,4 @@ Task 2
 ![ScreenShot](https://raw.github.com/hell-lord/E2E/main/images/task2.png)
 
 Swin Transformer
-![ScreenShot](https://raw.github.com/hell-lord/E2E/main/images/Screenshot 2023-04-02 000051.png)
+![ScreenShot](https://raw.github.com/hell-lord/E2E/main/images/task1_vit.png)
