@@ -5,7 +5,7 @@ Deep Learning Model on Electron-photon classification, Quark-Gluon classificatio
 | -------------------|:--------:| 
 | Task 1- tensorflow | 79.34    | 
 | Task 2             | 68.93    |  
-| Vision Transformer | 73.76    |  
+| Vision Transformer | 75.77    |  
 
 Training/Validation Loss and Accuracy
 Task 1 
